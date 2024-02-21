@@ -1,1 +1,1 @@
-# BurpSuite
+# Contains BurpSuite setup & configuration
